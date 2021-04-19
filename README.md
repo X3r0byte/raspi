@@ -21,3 +21,4 @@ Software:
 * Adafruit libraries to run hats
 * OpenCV
 
+*Please note these files are for reference only. The formatting and coding is poor and shouldn't be used as is.
