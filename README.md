@@ -1,4 +1,4 @@
-# raspi
+# raspibot
 
 This is an old python file I created in 2015 for my raspi bot. The majority of the functionality should be in here, but it is fragmented as some of the files went missing :(. Links to the bot:
 
