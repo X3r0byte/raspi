@@ -9,7 +9,7 @@ This is an old python file I created in 2015 for my raspi bot. The majority of t
 Essentially, the bot uses two ultrasonic sensors to judge distances and proximity, and one servo attached camera to track colors. If the bot cannot find the tracked color, it uses a servo to turn the camera about until the color comes into view. If the bot senses the color/ball is close, it stops and celebrates with R2D2 sounds :)
 
 Hardware:
-* Raspberry Pi 3
+* Raspberry Pi B+
 * Adafruit motor and servo hats
 * 2 DC motors
 * 2 ultrasonic sensors
@@ -19,4 +19,5 @@ Hardware:
 Software:
 * Custom python scripting
 * Adafruit libraries to run hats
+* OpenCV
 
